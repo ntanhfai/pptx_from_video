@@ -19,7 +19,7 @@ tạo file ảnh từ các trang đó.
 # Cách build file .pyd cho python
  ## install 
   - `pip install cython`
-  - Install visual studio: ![img.png](resources/img.png)
+  - Install visual studio (MSVC... và Windows ... SDK): ![img.png](resources/img.png)
   - 
 ## Run:
   - cd to the file.
