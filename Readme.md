@@ -16,3 +16,12 @@ tạo file ảnh từ các trang đó.
 - Chạy file `main1.py`
 - Sửa file pptx output (tự mở sau khi hoàn thiện)
 
+# Cách build file .pyd cho python
+ ## install 
+  - `pip install cython`
+  - Install visual studio: ![img.png](resources/img.png)
+  - 
+## Run:
+  - cd to the file.
+  - `cythonize -i taTest.py`
+  - 
